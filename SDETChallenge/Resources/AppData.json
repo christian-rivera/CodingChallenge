@@ -1,0 +1,12 @@
+{
+  "data": {
+    "microsoft": {
+      "microsoft-product-search": "Visual Studio",
+      "no-of-items": "20"
+    },
+    "amazon": {
+      "user-email": "Firstname.Lastname@fake.com",
+      "amazon-search-value": "Echo"
+    }
+  }
+}
